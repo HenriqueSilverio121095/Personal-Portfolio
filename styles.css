@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0; 
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none; 
+    transition: 0.3s;
+}
+
+a:hover {
+    opacity: 0.75;
+}
+
+.logo {
+    font-size: 24px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+nav {
+    align-items: center;
+    background-color: #23232e;
+    display: flex;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    height: 10vh;
+    justify-content: space-around;
+}
+
+header {
+    background: url("./assets/Programming.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+} 
+
+.nav-list {
+    display: flex;
+    list-style: none;
+}
+
+.nav-list li {
+    letter-spacing: 2.5px;
+    margin-left: 30px; /* To separate each item */
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px; 
+    margin-left: 15px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    margin-left: 15px;
+    margin-top: 1.5%;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 15px;
+    margin-top: 1.5%;
+    text-align: justify;
+}
+
+.link-GitHub {
+    color: #ffffff;
+    font-weight: 700; 
+}
+
+.box-About-Me {
+    background-color: #23232e;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.box-Work-Experience {
+    color: black;
+    padding: 15px;
+}
+
+.box-Projects {
+    background-color: #5F4D3F;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.box-Contact {
+    background-color: #180809;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.items {
+   margin-left: 2.5px; 
+   margin-top: 0.5%;
+}
+
+.item-LinkedIn {
+    margin-left: 15px; 
+    margin-top: 0.5%; 
+}
+
