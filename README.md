@@ -18,4 +18,5 @@ This project is my personal portfolio, in which you can learn a little more abou
 
 # Author
 Henrique Silverio Siqueira de Oliveira
+
 https://www.linkedin.com/in/henrique-oliveira-1210/
